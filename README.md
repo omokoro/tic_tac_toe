@@ -1,6 +1,6 @@
 # TicTacToe
 
-This the Tic Tae Toe Project from The Odin Project.  
+This the Tic Tac Toe Project from The Odin Project.  
 
 http://www.theodinproject.com/ruby-programming/oop?ref=lnav
 
